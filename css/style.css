@@ -65,6 +65,7 @@ img {
 body {
   font-size: 24px;
   line-height: 36px;
+  font-weight: 500;
   font-style: italic;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Microsoft JhengHei", Roboto, "Helvetica Neue", Arial, sans-serif;
 }
@@ -79,14 +80,32 @@ h1 {
   line-height: 84px;
 }
 
-.subtitle {
+.f-24-lh-42 {
   font-size: 24px;
   line-height: 42px;
 }
 
-.f-24-lh-42 {
+.f-24-lh-36 {
   font-size: 24px;
+  line-height: 36px;
+}
+
+.f-20-lh-30 {
+  font-size: 20px;
+  line-height: 30px;
+}
+
+.f-20-lh-42 {
+  font-size: 20px;
   line-height: 42px;
+}
+
+.f-normal {
+  font-style: normal;
+}
+
+.f-700 {
+  font-weight: 700;
 }
 
 .text-white {
